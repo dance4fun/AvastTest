@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bit manipulation Test</string>
+    <string name="label_first_number">Enter first number</string>
+    <string name="label_second_number">Enter second number</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="calculation_result">Result: %s</string>
+    <string name="invalid_input">Invalid input</string>
+</resources>
